@@ -8,3 +8,6 @@ Shows system info, CPU/memory/disk usage, top processes, logged-in users, servic
 ```bash
 chmod +x server-dashboard.sh
 ./server-dashboard.sh
+
+## Project URL
+https://roadmap.sh/projects/server-stats
